@@ -1,4 +1,4 @@
-## 预装定制操作系统的Lenovo Tab 4 8 REL（具体型号为TB-8X04F）的平板电脑安装并运行原厂安卓（Android Nougat）操作系统所需文件和方法与步骤记录。  
+## 处于非正常状态的Lenovo Tab 4 8 REL（具体型号为TB-8X04F）的平板电脑安装并运行原厂安卓（Android Nougat）操作系统所需文件和方法与步骤记录。  
   
 
 文件列表
