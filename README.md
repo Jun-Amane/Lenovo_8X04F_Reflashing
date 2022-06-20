@@ -1,6 +1,6 @@
 ## 处于非正常状态的Lenovo Tab 4 8 REL（具体型号为TB-8X04F）平板电脑安装并运行原厂安卓（Android Nougat）操作系统所需文件和方法与步骤记录。  
   
-  ### 操作方法详见http://www.zzy040330.cn/Lenovo_Tab4_8_REL非常状态下修复办法/ 。
+  ### 操作方法详见https://www.zzy040330.moe/Lenovo_Tab4_8_REL非常状态下修复办法/ 。
 
 
 
